@@ -1,0 +1,13 @@
+﻿{
+  "title": "ornek_vaka_01",
+  "scenes": [
+    {
+      "narration": "Her sey 1974 yilinda arsivden cikan kucuk bir belgeyle basladi.",
+      "visual_prompt": "2d documentary illustration, dark moody archives, detective desk lamp, dramatic shadows, no text"
+    },
+    {
+      "narration": "Ancak dosyanin son iki sayfasi yillardir kimseye gosterilmemisti.",
+      "visual_prompt": "2d documentary illustration, redacted secret folder on wooden table, tense atmosphere, no text"
+    }
+  ]
+}
